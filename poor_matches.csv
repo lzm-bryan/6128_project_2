@@ -1,3 +1,0 @@
-trip_id,quality_class,is_poor,avg_distance,max_distance,coverage,continuity,quality_score,num_gps_points,route_length
-4,Poor,True,145.05,523.16,0.552,1.0,0.321,29,23102.8
-0,Poor,True,999.0,999.0,0.0,0.0,0.0,23,0.0
