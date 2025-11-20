@@ -1,0 +1,16 @@
+trip_id,quality_class,is_poor,avg_distance,max_distance,coverage,continuity,quality_score,num_gps_points,route_length
+0,Excellent,False,3.32,9.6,1.0,1.0,0.983,23,3503.9
+1,Excellent,False,2.69,8.38,1.0,1.0,0.987,19,4450.9
+2,Excellent,False,10.67,128.85,0.938,1.0,0.922,65,26357.4
+3,Excellent,False,9.96,39.72,1.0,1.0,0.95,43,11547.9
+4,Poor,True,145.05,523.16,0.552,1.0,0.321,29,23102.8
+5,Excellent,False,2.87,11.51,1.0,1.0,0.986,26,6957.0
+6,Excellent,False,2.78,7.1,1.0,1.0,0.986,36,6305.4
+7,Excellent,False,7.61,85.99,0.941,1.0,0.938,34,3505.5
+8,Good,False,28.07,206.35,0.842,1.0,0.796,38,5065.8
+0,Poor,True,999.0,999.0,0.0,0.0,0.0,23,0.0
+10,Excellent,False,4.49,14.72,1.0,1.0,0.978,22,2630.8
+11,Good,False,57.17,514.04,0.795,1.0,0.632,44,9587.5
+12,Excellent,False,3.66,11.28,1.0,1.0,0.982,32,7042.4
+13,Excellent,False,4.34,24.39,1.0,1.0,0.978,34,4947.2
+14,Excellent,False,19.8,104.49,0.857,1.0,0.844,28,3324.9
